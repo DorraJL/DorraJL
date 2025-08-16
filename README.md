@@ -7,8 +7,8 @@ Welcome to my Git repository! Here's a glimpse into my world of Cybersecurity
 - Committed to continuous learning and exploring emerging technologies
 
 ## 📍 Contact Info
-- 📍 Manouba, Tunisia
-- ✉️ dorrajlassi5@gmail.com
+-  Manouba, Tunisia
+-  dorrajlassi5@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dorra-jlassi-8767b7194/)
 
 Feel free to connect with me anytime! 😊
