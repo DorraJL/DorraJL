@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm Dorra! 👋
+Welcome to my Git repository! Here's a glimpse into my world of Cybersecurity 
 
-<!--
-**DorraJL/DorraJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+• Passionate Cybersecurity Engineer with strong interest in AI/ML
+• Skilled in identifying, investigating, and responding to cyber threats
+• Committed to continuous learning and exploring emerging technologies
 
-Here are some ideas to get you started:
+📍 Contact Info
+• Manouba, Tunisia
+• dorrajlassi5@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/dorra-jlassi-8767b7194/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me anytime! 😊
